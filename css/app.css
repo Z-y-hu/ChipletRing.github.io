@@ -1,0 +1,29 @@
+  body {
+    text-align: center;
+    margin: 0;
+  }
+  #bg {
+    width: 100%;
+    height: auto;
+  }
+  #title {
+    font-size: 80px;
+    color: white;
+  }
+  #app {
+    top: 300px;
+    position: absolute;
+    width:100%;
+    text-align:center;
+  }
+  #market {
+    margin-top: 80px;
+    width:100%;
+    text-align:center;
+  }
+  .show{
+      display: block;
+  }
+  #wechat {
+      font-size: 36px;
+  }
